@@ -1,5 +1,5 @@
 
-<h1>Hey everyone, i’m Luciano😃</h1>
+<h1 border="0">Hey everyone, i’m Luciano😃</h1>
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
 - 🧐 I’m a Frontend Developer and UX/UI Designer <br/> 
@@ -16,7 +16,7 @@
   </a> -->
   
   <a href="https://www.linkedin.com/in/luciano-melo-claps/">
-  <img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+  <img border="0" alt="Luciano Melo Claps" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
   </a>
   
   <!--<a href="https://twitter.com/HrugVed_">
@@ -24,7 +24,7 @@
   </a> -->
   
   <a href="https://t.me/lucianomeloclaps">
-  <img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
+  <img border="0" alt="Luciano Melo Claps" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
   </a>
   
  <!-- <a href="https://discord.com/channels/@me/862133669510250506">
@@ -32,12 +32,9 @@
   </a> -->
   
   <a href="mailto:meloclapsluciano@gmail.com">
-  <img border="0" alt="Luciano Melo CLpa" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+  <img border="0" alt="Luciano Melo Claps" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
   </a>
 </p>
-
-
-<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
 <!-----Tech Stack figures------>
 <h2 align="center">Main Technologies</h2>
