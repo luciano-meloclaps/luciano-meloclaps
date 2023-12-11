@@ -65,13 +65,21 @@
 
 <!-----Contribution figures------>
 
-<div>
-<h2>General Data and Contribution Stats</h2></h2>
 
-<p>
-  <img align="left" style="margin-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=luciano-meloclaps&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<h2>General Data</h2>
+
+<p align="center">
+  <img align="center" style="margin-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=luciano-meloclaps&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="luciano-meloclaps" />
-  <img align="right" style="margin-left: 20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=luciano-meloclaps&theme=dark" alt="luciano-meloclaps" />
+</p>
+<br>
+
+
+<!-----Contribution Stats------>
+<h2>Contribution Stats</h2>
+
+<p align="center">
+  <img align="center" style="margin-left: 20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=luciano-meloclaps&theme=dark" alt="luciano-meloclaps" />
 </p>
 
 </div>
