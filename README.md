@@ -1,10 +1,10 @@
 
-<h1>Hey Everyone, i’m Luciano😃</h1>
+<h1>Hey everyone, i’m Luciano😃</h1>
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
-- 🧐 I’m Frontend Developer and designer UX/UI <br/> 
-- 🤩 I’m passionate to make websites responsive, innovative and dynamic, the design of UX/UI and work collaborative work<br/>
-- 🌱 Trying to learn new technologies and buff my soft skills and hard skills <br/>
+- 🧐 I’m a Frontend Developer and UX/UI Designer <br/> 
+- 🤩 I'm passionate about making responsive, innovative and dynamic websites, UX/UI Design and doing group work<br/>
+- 🌱 Trying to learn new technologies and buff my soft skills and hard skills<br/>
 - 💞️ I’m open for collaboration on every interesting project/stuff<br/>
 - 📫 You can contact me through these socials😁👇🏻 <br/>
 
