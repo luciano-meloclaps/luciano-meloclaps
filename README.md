@@ -66,7 +66,7 @@
 <!-----Contribution figures------>
 
 
-<h2>General Data</h2>
+<h2 align="center">General Data</h2>
 
 <p align="center">
   <img align="center" style="margin-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=luciano-meloclaps&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
@@ -76,7 +76,7 @@
 
 
 <!-----Contribution Stats------>
-<h2>Contribution Stats</h2>
+<h2 align="center">Contribution Stats</h2>
 
 <p align="center">
   <img align="center" style="margin-left: 20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=luciano-meloclaps&theme=dark" alt="luciano-meloclaps" />
