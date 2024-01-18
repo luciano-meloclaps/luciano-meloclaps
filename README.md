@@ -1,5 +1,5 @@
 
-<h1 border="0">Hey everyone, i’m Luciano😃</h1>
+<h1 border="0">Hey everyone, i’m Luciano😎</h1>
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
 - 🧐 I’m a Frontend Developer and UX/UI Designer <br/> 
