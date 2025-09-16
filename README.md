@@ -26,7 +26,7 @@ On the frontend, I bring these designs to life using **React**, and I'm currentl
 
 **Backend:**  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql, sqlite" />
 </a>
 
 **Frontend:**  
