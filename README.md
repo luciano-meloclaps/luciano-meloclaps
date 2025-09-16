@@ -10,7 +10,7 @@
   </a>
 </p>
 
-I architect and build full-stack applications with a strong focus on user experience. My passion is turning complex requirements into clean, scalable code and intuitive interfaces. I primarily work with **.NET** for robust backends and **React** for dynamic frontends.
+I Software Developer | .NET & React and build full-stack applications with a strong focus on user experience. My passion is turning complex requirements into clean, scalable code and intuitive interfaces. I primarily work with **.NET** for robust backends and **React** for dynamic frontends.
 
 ---
 <h3 align="center">🛠️ Core Technologies & Tools</h3>
