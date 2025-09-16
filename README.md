@@ -1,4 +1,4 @@
-<h1 align="center">Luciano Melo Claps</h1>
+<h1 align="center">Luciano Stefano Melo Claps</h1>
 <h3 align="center">Fullstack Developer | UX/UI Designer</h3>
 
 <p align="center">
