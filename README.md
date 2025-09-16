@@ -40,6 +40,30 @@ On the frontend, I bring these designs to life using **React**, and I'm currentl
 </a>
 
 </div>
+### 🏆 Featured Project
+
+<table width="100%" align="center">
+<tr>
+<td align="center">
+  <a href="https://github.com/luciano-meloclaps/Wiki-Forgotten-Empires">
+    <!-- 
+      ¡IMPORTANTE! Reemplaza esta imagen con una captura de pantalla atractiva de tu proyecto.
+      Puedes subir la imagen al propio repositorio y enlazarla.
+    -->
+   <!--   <img src="https://via.placeholder.com/800x400.png?text=Wiki-Forgotten-Empires+Project+Screenshot" alt="Wiki-Forgotten-Empires" />  -->
+  </a>
+  <br />
+  <h3>Wiki-Forgotten-Empires (Full-Stack Monorepo)</h3>
+  <p>A deep dive into building a scalable web application from scratch. This project showcases clean architecture in .NET, a decoupled Next.js client, and a well-structured monorepo.</p>
+  <p>
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </p>
+</td>
+</tr>
+</table>
 
 <!-- 📊 GitHub Stats Section 📊 -->
 <h2 align="center">My GitHub Activity & Stats 📊</h2>
