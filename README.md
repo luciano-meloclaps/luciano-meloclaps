@@ -9,9 +9,6 @@
   <a href="mailto:meloclapsluciano@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://t.me/lucianomeloclaps">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-Chat_with_Me-blue?style=for-the-badge&logo=telegram">
-  </a>
 </p>
 
 🚀 I'm a developer who builds bridges between powerful backend logic and beautiful, intuitive user interfaces. My passion lies in the entire product lifecycle: from designing a pixel-perfect UI in Figma to implementing the robust backend logic with **C# and .NET**.
@@ -20,7 +17,7 @@ On the frontend, I bring these designs to life using **React**, and I'm currentl
 
 
 
-<h2 align="center">My Tech Stack 💻</h2>
+<h2 align="center">My Tech Stack 💡</h2>
 
 <div align="center">
 
@@ -40,7 +37,8 @@ On the frontend, I bring these designs to life using **React**, and I'm currentl
 </a>
 
 </div>
-### 🏆 Featured Project
+
+<h2 align="center">Featured Project 💻</h2>
 
 <table width="100%" align="center">
 <tr>
